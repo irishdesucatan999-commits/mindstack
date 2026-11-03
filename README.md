@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mindstack_appdev
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# mindstack
+>>>>>>> 4d3b5b1d51b80f7e216ce85f3905a52bbe08e8b3
